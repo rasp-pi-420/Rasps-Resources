@@ -1,0 +1,22 @@
+{
+  "name": "rasps-resources",
+  "version": "1.0.0",
+  "description": "Rasps resources for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rasp-pi-420/Rasps-Resources.git"
+  },
+  "keywords": [
+    "rasp"
+  ],
+  "author": "rasp.pi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasp-pi-420/Rasps-Resources/issues"
+  },
+  "homepage": "https://github.com/rasp-pi-420/Rasps-Resources#readme"
+}
